@@ -11,7 +11,7 @@ const Home = () => {
             {/* <img src="https://antphotography.in/wp-content/uploads/2019/08/DSC1755-Edit.jpg"></img> */}
             <div className="home-div text-pink rounded-lg flex flex-col items-center">
                 <div className="w-full flex flex-col items-center justify-center pt-4">
-                    <span style={{fontSize:'22px', textAlign:'center'}} className="heading">
+                    <span style={{fontSize:'20px', textAlign:'center'}} className="heading">
                         WE ARE GETTING MARRIED...<GiSelfLove />
                     </span>
                     {/* <span style={{fontSize:'35px', textAlign:'center'}} className="heading flex items-center justify-center">
